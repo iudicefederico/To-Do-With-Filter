@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: lightgray;
+}
+
+.div {
+  margin-top: 1rem;
+}
+
+.div__list {
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: lightgray;
+}
+
+h4 {
+  text-align: center;
+}
